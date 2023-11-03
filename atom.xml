@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Liwgreat.github.io/</id>
+    <title>Liwensheng&apos;s Page</title>
+    <updated>2023-11-03T15:35:52.325Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Liwgreat.github.io/"/>
+    <link rel="self" href="https://Liwgreat.github.io/atom.xml"/>
+    <subtitle>Here is Liwensheng&apos;s work space&lt;br&gt; Thank you for your visit！🤝 &lt;br&gt;Let&apos;s Pioneering the Future of Machine Learning
+</subtitle>
+    <logo>https://Liwgreat.github.io/images/avatar.png</logo>
+    <icon>https://Liwgreat.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Liwensheng&apos;s Page</rights>
+    <entry>
+        <title type="html"><![CDATA[Notion transition]]></title>
+        <id>https://Liwgreat.github.io/post/notion-transition/</id>
+        <link href="https://Liwgreat.github.io/post/notion-transition/">
+        </link>
+        <updated>2023-11-03T15:31:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GA-PINN]]></title>
+        <id>https://Liwgreat.github.io/post/GA-PINN/</id>
+        <link href="https://Liwgreat.github.io/post/GA-PINN/">
+        </link>
+        <updated>2023-10-05T03:33:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Test]]></title>
+        <id>https://Liwgreat.github.io/post/Code/</id>
+        <link href="https://Liwgreat.github.io/post/Code/">
+        </link>
+        <updated>2023-10-05T02:56:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Optimization]]></title>
+        <id>https://Liwgreat.github.io/post/Bayesian Optimization/</id>
+        <link href="https://Liwgreat.github.io/post/Bayesian Optimization/">
+        </link>
+        <updated>2023-10-04T17:01:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curriculum Learning]]></title>
+        <id>https://Liwgreat.github.io/post/Curriculum Learning/</id>
+        <link href="https://Liwgreat.github.io/post/Curriculum Learning/">
+        </link>
+        <updated>2023-10-04T16:25:13.000Z</updated>
+    </entry>
+</feed>
